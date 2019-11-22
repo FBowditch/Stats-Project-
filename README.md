@@ -15,11 +15,11 @@ This was our 2nd 48-hour project at the Flatiron School (NYC Data Science)
 ## Data:
  
 - **Dark Sky**
-	- Weather Data for Brooklyn  
-	- https://darksky.net/dev
-- **NYC Open Daya**
-	- Arrest Data for Brooklyn
-	- https://dev.socrata.com/
+	- Weather Data
+	- https://darksky.net/dev/docs
+- **NYC Open Data**
+	- Arrest Data for NYC (YTD)
+	- https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc
 	
 ## Tools (all in Python):
    - pandas
@@ -28,7 +28,7 @@ This was our 2nd 48-hour project at the Flatiron School (NYC Data Science)
    - Seaborn/Matplotlib
    - SciPy/NumPy
 
-# Hypotheses 
+## Hypothesis 
  
  -H01: There is no significant difference between the forecast for a particular day in Brooklyn and the number of arrests for that day.
  -Ha1: There is a significant difference between the forecast for a particular day in Brooklyn and the number of arrests.
@@ -36,7 +36,7 @@ This was our 2nd 48-hour project at the Flatiron School (NYC Data Science)
  -H02: There is no significant difference between the forecast for a particular day in Brooklyn and the number of arrests by gender.
  -Ha2: There is a significant difference between the forecast for a particular day in Brooklyn and the number of arrests by gender.
  
- ### Hypothesis Testing
+ ## Hypothesis Testing
  - T-Test
  - ANOVA
 

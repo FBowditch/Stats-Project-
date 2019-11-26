@@ -1,4 +1,4 @@
-# Brooklyn Weather and Arrests
+# High Pressure Cell
 
 We looked at correlations between weather and arrests in Brooklyn between 01/01/2019 and 09/30/2019 to see if there were any interesting relationships. We specifically examined the relationship between the particular weather condition on a given day and the arrests taken place that day.
 

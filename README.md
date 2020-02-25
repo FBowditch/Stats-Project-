@@ -14,10 +14,10 @@ This was our 2nd 48-hour project at the Flatiron School (NYC Data Science)
  
 ## Data:
  
-- **Dark Sky**
+- **Dark Sky API**
 	- Weather Data
 	- https://darksky.net/dev/docs
-- **NYC Open Data**
+- **NYC Open Data API**
 	- Arrest Data for NYC (YTD)
 	- https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc
 	
@@ -39,4 +39,8 @@ This was our 2nd 48-hour project at the Flatiron School (NYC Data Science)
  ## Hypothesis Testing
  - T-Test
  - ANOVA
+ 
+ ## Conclusion & Going Forward
+ - We accepted both null hypothesis. With an alpha level of .05 we are 95% confident that there is no significant difference between the forecast for a particular day in Brooklyn and the number of arrests for that day during the time period examined. As well, there is no significant difference between the forecast for a particular day in Brooklyn and the number of arrests by gender. 
+ - Some crimes may not have occured on the day of the arrest. Therefore, moving forward, it would be interesting to look specifically at crimes commited on a particular day and the weather forecast for that day. 
 

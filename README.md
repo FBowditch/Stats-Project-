@@ -28,10 +28,16 @@ This was our 2nd 48-hour project at the Flatiron School (NYC Data Science)
    - Seaborn/Matplotlib
    - SciPy/NumPy
 
+## Male vs Female Arrests
+
+![Screenshot](https://github.com/FBowditch/Stats-Project-/blob/master/arrest_charts/sex.png)
+
 ## Hypothesis 
  
  -H01: There is no significant difference between the forecast for a particular day in Brooklyn and the number of arrests for that day.
  -Ha1: There is a significant difference between the forecast for a particular day in Brooklyn and the number of arrests.
+ 
+ ![Screenshot](https://github.com/FBowditch/Stats-Project-/blob/master/arrest_charts/hp1_fail.png)
  
  -H02: There is no significant difference between the forecast for a particular day in Brooklyn and the number of arrests by gender.
  -Ha2: There is a significant difference between the forecast for a particular day in Brooklyn and the number of arrests by gender.
@@ -42,5 +48,9 @@ This was our 2nd 48-hour project at the Flatiron School (NYC Data Science)
  
  ## Conclusion & Going Forward
  - We accepted both null hypothesis. With an alpha level of .05 we are 95% confident that there is no significant difference between the forecast for a particular day in Brooklyn and the number of arrests for that day during the time period examined. As well, there is no significant difference between the forecast for a particular day in Brooklyn and the number of arrests by gender. 
- - Some crimes may not have occured on the day of the arrest. Therefore, moving forward, it would be interesting to look specifically at crimes commited on a particular day and the weather forecast for that day. 
+ - Some crimes may not have occured on the day of the arrest. Therefore, moving forward, it would be interesting to look specifically at crimes commited on a particular day and the weather forecast for that day
+ -If we categorize arrests into violent and non violent crimes, is there a trend related to weather and violent crimes?
+-What effect does the daily temperature have on the number of arrests?
+
+ 
 

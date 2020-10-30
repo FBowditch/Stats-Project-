@@ -39,8 +39,8 @@ This was our 2nd 48-hour project at the Flatiron School (NYC Data Science)
  
  ![Screenshot](https://github.com/FBowditch/Stats-Project-/blob/master/arrest_charts/hp1_fail.png)
  
- -H02: There is no significant difference between the forecast for a particular day in Brooklyn and the number of arrests by gender.
- -Ha2: There is a significant difference between the forecast for a particular day in Brooklyn and the number of arrests by gender.
+ -H02: There is no significant difference between the forecast for a particular day in Brooklyn and the number of arrests.
+ -Ha2: There is a significant difference between the forecast for a particular day in Brooklyn and the number of arrests.
  
  ## Hypothesis Testing
  - T-Test
